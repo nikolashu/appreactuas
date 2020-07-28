@@ -48,5 +48,10 @@
   "bugs": {
     "url": "https://github.com/nikolashu/appreactuas/issues"
   },
-  "homepage": "https://github.com/nikolashu/appreactuas#readme"
+  "homepage": "https://github.com/nikolashu/appreactuas#readme",
+  "keywords": [
+    "app",
+    "react",
+    "uas"
+  ]
 }
